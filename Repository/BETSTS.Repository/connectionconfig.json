@@ -1,0 +1,8 @@
+﻿{
+  "ConnectionStrings": {
+    "STS-UyPhan": "Data Source=STS-UyPhan\\SQLEXPRESS;Database=BETTET;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "Development": "Server=STS-UyPhan\\SQLEXPRESS;Database=BETTET;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "Staging": "Data Source=STS23;Initial Catalog=BETTET;User ID=sa;Password=123456;Trusted_Connection=False;MultipleActiveResultSets=True",
+    "Production": "Data Source=STS23;Initial Catalog=BETTET;User ID=sa;Password=123456;Trusted_Connection=False;MultipleActiveResultSets=True"
+  }
+}
